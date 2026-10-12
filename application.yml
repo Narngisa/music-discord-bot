@@ -7,7 +7,7 @@ lavalink:
     - dependency: "dev.lavalink.youtube:youtube-plugin:1.18.2"
       snapshot: false
   server:
-    password: "Aru1234"
+    password: "Password"
     sources:
       youtube: false # Disable deprecated internal YouTube source
       bandcamp: true
