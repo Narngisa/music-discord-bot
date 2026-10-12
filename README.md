@@ -110,11 +110,11 @@ Open `.env` and fill in your credentials:
 TOKEN=your_discord_bot_token_here
 
 # Guild ID for instant slash command syncing during development (Optional: leave blank for global sync)
-GUILD_ID=123456789012345678
+GUILD_ID=Your ID Discord Server
 
 # Lavalink Node Configuration
 LAVALINK_URI=http://127.0.0.1:2333
-LAVALINK_PASSWORD=Aru1234
+LAVALINK_PASSWORD=Your password in application.yml
 ```
 
 ---
